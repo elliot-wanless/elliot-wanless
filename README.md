@@ -2,7 +2,7 @@
 
 * 👋 My name's Elliot
 * 👀 I’m interested in tech, f1, coffee + dogs (especially GSDs)
-* 🌱 I’m currently building teams, making AI features and making ARR go through the roof.
+* 🌱 I’m currently building teams, creating AI features and making ARR go through the roof.
 * 🎥 I work at VEED.IO
   
 <!--
