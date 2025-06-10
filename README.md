@@ -3,7 +3,7 @@
 * 👋 My name's Elliot
 * 👀 I’m interested in tech, f1, coffee + dogs (especially GSDs)
 * 🌱 I’m currently building teams, creating AI features and making ARR go through the roof.
-* 🎥 I work at VEED.IO
+* 🎥 I work as a Senior Engineering Manager at VEED.IO
   
 <!--
 **elliot-wanless/elliot-wanless** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
